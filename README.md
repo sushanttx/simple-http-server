@@ -103,13 +103,3 @@ java -cp target/classes:target/test-classes org.junit.platform.console.ConsoleLa
 3. Commit your changes
 4. Push to the branch
 5. Create a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- HTTP/1.1 Specification (RFC 7230-7235)
-- Java NIO for efficient I/O handling
-- JUnit for testing framework 
