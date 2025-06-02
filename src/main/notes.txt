@@ -1,0 +1,1 @@
+The http server can handle requests only in a queue thus if a request takes too long, itll hinder the processing of the other requests.
